@@ -94,19 +94,19 @@ body {background: #252525 !important;}
 
 /*----------IMAGES---------------*/
 .bg-prob-img-1 {
-	background-image: url(/images/Problem/1.jpg);
+	background-image: url(./images/Problem/1.jpg);
 	background-repeat: no-repeat;
 	background-position-y: center;
 	background-size: cover;
 }
 .bg-prob-img-2 {
-	background-image: url(/images/Problem/2.jpg);
+	background-image: url(./images/Problem/2.jpg);
 	background-repeat: no-repeat;
 	background-position-y: center;
 	background-size: cover;
 }
 .bg-prob-img-3 {
-	background-image: url(/images/Problem/3.jpg);
+	background-image: url(./images/Problem/3.jpg);
 	background-repeat: no-repeat;
 	background-position-y: center;
 	background-size: cover;
