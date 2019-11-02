@@ -132,37 +132,37 @@ body {background: #252525 !important;}
 
 /* ------ACADEMY_IMAGES----------------- */
 .bg-acad-1 {
-	background-image: url(/images/academy/1.jpg);
+	background-image: url(../images/academy/1.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
 }
 .bg-acad-2 {
-	background-image: url(/images/academy/2.jpg);
+	background-image: url(../images/academy/2.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
 }
 .bg-acad-3 {
-	background-image: url(/images/academy/3.jpg);
+	background-image: url(../images/academy/3.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
 }
 .bg-acad-4 {
-	background-image: url(/images/academy/4.jpg);
+	background-image: url(../images/academy/4.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
 }
 .bg-acad-5 {
-	background-image: url(/images/academy/5.jpg);
+	background-image: url(../images/academy/5.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
 }
 .bg-acad-6 {
-	background-image: url(/images/academy/6.jpg);
+	background-image: url(../images/academy/6.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
